@@ -1,0 +1,3 @@
+[submodule "demo_kafka_python"]
+	path = demo_kafka_python
+	url = git@github.com:lffsantos/demo_kafka_python.git

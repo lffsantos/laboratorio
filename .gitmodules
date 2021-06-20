@@ -1,3 +1,6 @@
 [submodule "demo_kafka_python"]
 	path = demo_kafka_python
 	url = git@github.com:lffsantos/demo_kafka_python.git
+[submodule "demo_scala_spark"]
+	path = demo_scala_spark
+	url = git@github.com:lffsantos/demo_scala_spark.git

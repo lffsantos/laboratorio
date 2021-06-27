@@ -4,3 +4,6 @@
 [submodule "demo_scala_spark"]
 	path = demo_scala_spark
 	url = git@github.com:lffsantos/demo_scala_spark.git
+[submodule "demo_elasticsearch"]
+	path = demo_elasticsearch
+	url = git@github.com:lffsantos/demo_elasticsearch.git
